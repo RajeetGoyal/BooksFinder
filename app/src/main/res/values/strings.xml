@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BooksFinder</string>
+    <string name="search_hint">Book Name</string>
+    <string name="search_title">Book Name</string>
+    <string name="button_text">Search</string>
+    <string name="title">Title</string>
+    <string name="authors">Authors</string>
+    <string name="publisher">Publishers</string>
+    <string name="no_google_play_link">Sorry, unable to fetch more details.</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_books">No books available.</string>
+    <string name="book_cover_thumbnail">Book Image Thumbnail</string>
+    <string name="more_info_link">More Info Link</string>
+</resources>
